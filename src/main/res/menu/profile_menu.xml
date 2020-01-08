@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/search_profile"
+        android:icon="@android:drawable/ic_search_category_default"
+        android:title="검색" />
+    <item
+        android:id="@+id/info_profile"
+        android:icon="@drawable/profile"
+        android:title="내 정보" />
+    <item
+        android:id="@+id/restaurant_profile"
+        android:icon="@drawable/restaurant"
+        android:title="내 식당" />
+    <item
+        android:id="@+id/coupon_profile"
+        android:icon="@drawable/coupon"
+        android:title="쿠폰함" />
+    <item
+        android:id="@+id/event_profile"
+        android:icon="@drawable/event"
+        android:title="이벤트" />
+    <item
+        android:id="@+id/logout_profile"
+        android:icon="@drawable/logout"
+        android:title="로그아웃" />
+    <item
+        android:id="@+id/close_profile"
+        android:icon="@drawable/close"
+        android:title="창 닫기" />
+</menu>

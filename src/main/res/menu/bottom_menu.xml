@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main_bottom"
+        android:icon="@drawable/food"
+        android:title="메인" />
+    <item
+        android:id="@+id/best_bottom"
+        android:icon="@drawable/best"
+        android:title="인기메뉴" />
+    <item
+        android:id="@+id/near_bottom"
+        android:icon="@drawable/restaurant"
+        android:title="주변식당" />
+    <item
+        android:id="@+id/search_bottom"
+        android:icon="@android:drawable/ic_search_category_default"
+        android:title="식당검색" />
+    <item
+        android:id="@+id/ing_bottom"
+        android:icon="@drawable/delivery"
+        android:title="배달중" />
+</menu>
